@@ -1,9 +1,10 @@
 #Data Science Specialization - Getting and Cleaning Data: Course Project
 
-The repository contains the solution for the assignment for week 3 for Data Science Specilization along. The files are
+The repository contains the solution for the assignment for week 3 for Data Science Specilization along with a readme and codebook. The files are
 
 * run_analysis.R -> The code to generate a tidy data set as instructed
 * codeBook.md -> An explanation of the variables used
+* readme.m -> An explanation of the contents of the repository
 
 ##The assignment
  You should create one R script called run_analysis.R that does the following. 
